@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "name": "Person Name",
+    "about":{"mail":"abcd@gmail.com","phone":"+91000000000"},
+    "introduction":"Welcome to my career portfolio! I am currently a senior at Florida State University earning a Bachelor of Science in Computer Science slated for a May 2018 graduation date. I hope that this portfolio provides insight into my character, programming background, analytical skills, and accomplishments.",
+    "image": "https://pyxis.nymag.com/v1/imgs/4e5/1f7/a917c50e70a4c16bc35b9f0d8ce0352635-14-tom-cruise.rsquare.w700.jpg",
+    "skill": ["Python","java"],
+    "achievments":["Achievments"],
+    "journey":"",
+    "social":{
+      "linkedIn":"https://github.com/Bhusnar5044/",
+      "github":"https://github.com/Bhusnar5044/",
+      "facebook":"https://github.com/Bhusnar5044/"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Person Name",
+    "about":{"mail":"abcd@gmail.com","phone":"+91000000000"},
+    "introduction":"Welcome to my career portfolio! I am currently a senior at Florida State University earning a Bachelor of Science in Computer Science slated for a May 2018 graduation date. I hope that this portfolio provides insight into my character, programming background, analytical skills, and accomplishments.",
+    "image": "https://pyxis.nymag.com/v1/imgs/4e5/1f7/a917c50e70a4c16bc35b9f0d8ce0352635-14-tom-cruise.rsquare.w700.jpg",
+    "skill": ["Python","java"],
+    "achievments":["Achievments"],
+    "journey":"",
+    "social":{
+      "linkedIn":"https://github.com/Bhusnar5044/",
+      "github":"https://github.com/Bhusnar5044/",
+      "facebook":"https://github.com/Bhusnar5044/"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Person Name",
+    "about":{"mail":"abcd@gmail.com","phone":"+91000000000"},
+    "introduction":"Welcome to my career portfolio! I am currently a senior at Florida State University earning a Bachelor of Science in Computer Science slated for a May 2018 graduation date. I hope that this portfolio provides insight into my character, programming background, analytical skills, and accomplishments.",
+    "image": "https://pyxis.nymag.com/v1/imgs/4e5/1f7/a917c50e70a4c16bc35b9f0d8ce0352635-14-tom-cruise.rsquare.w700.jpg",
+    "skill": ["Python","java"],
+    "achievments":["Achievments"],
+    "journey":"",
+    "social":{
+      "linkedIn":"https://github.com/Bhusnar5044/",
+      "github":"https://github.com/Bhusnar5044/",
+      "facebook":"https://github.com/Bhusnar5044/"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Person Name",
+    "about":{"mail":"abcd@gmail.com","phone":"+91000000000"},
+    "introduction":"Welcome to my career portfolio! I am currently a senior at Florida State University earning a Bachelor of Science in Computer Science slated for a May 2018 graduation date. I hope that this portfolio provides insight into my character, programming background, analytical skills, and accomplishments.",
+    "image": "https://pyxis.nymag.com/v1/imgs/4e5/1f7/a917c50e70a4c16bc35b9f0d8ce0352635-14-tom-cruise.rsquare.w700.jpg",
+    "skill": ["Python","java"],
+    "achievments":["Achievments"],
+    "journey":"",
+    "social":{
+      "linkedIn":"https://github.com/Bhusnar5044/",
+      "github":"https://github.com/Bhusnar5044/",
+      "facebook":"https://github.com/Bhusnar5044/"
+    }
+  }
+]
